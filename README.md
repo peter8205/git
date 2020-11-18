@@ -11,3 +11,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Tamas Pluhar](https://github.com/pluhi92)
 1. [Juraj Veselý](https://github.com/jurajvesely)
 1. [Iva Hevesiová](https://github.com/IvaHaa)
+1. [Peter Vecera](https://github.com/PeterVecera)
